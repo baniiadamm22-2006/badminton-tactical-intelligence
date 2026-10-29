@@ -1,0 +1,161 @@
+{
+  "input_rows": 605,
+  "valid_location_rows": 553,
+  "excluded_rows": 52,
+  "minimum_valid_samples_for_visualization": 20,
+  "court_width_m": 6.1,
+  "court_length_m": 13.4,
+  "limitation": "Frequencies represent valid sampled frames, not independent rallies, movement speed, athlete identity, or tactical weakness.",
+  "tracks": [
+    {
+      "segment_id": 1,
+      "track_id": 1,
+      "court_side_labels": [
+        "far"
+      ],
+      "total_rows": 249,
+      "valid_rows": 217,
+      "excluded_rows": 32,
+      "sufficient_samples": true,
+      "zones": {
+        "front": {
+          "samples": 0,
+          "percent_of_valid": 0.0
+        },
+        "middle": {
+          "samples": 136,
+          "percent_of_valid": 62.67
+        },
+        "rear": {
+          "samples": 81,
+          "percent_of_valid": 37.33
+        }
+      }
+    },
+    {
+      "segment_id": 1,
+      "track_id": 2,
+      "court_side_labels": [
+        "near"
+      ],
+      "total_rows": 6,
+      "valid_rows": 0,
+      "excluded_rows": 6,
+      "sufficient_samples": false,
+      "zones": {
+        "front": {
+          "samples": 0,
+          "percent_of_valid": 0.0
+        },
+        "middle": {
+          "samples": 0,
+          "percent_of_valid": 0.0
+        },
+        "rear": {
+          "samples": 0,
+          "percent_of_valid": 0.0
+        }
+      }
+    },
+    {
+      "segment_id": 1,
+      "track_id": 5,
+      "court_side_labels": [
+        "near"
+      ],
+      "total_rows": 246,
+      "valid_rows": 244,
+      "excluded_rows": 2,
+      "sufficient_samples": true,
+      "zones": {
+        "front": {
+          "samples": 0,
+          "percent_of_valid": 0.0
+        },
+        "middle": {
+          "samples": 126,
+          "percent_of_valid": 51.64
+        },
+        "rear": {
+          "samples": 118,
+          "percent_of_valid": 48.36
+        }
+      }
+    },
+    {
+      "segment_id": 1,
+      "track_id": 8,
+      "court_side_labels": [
+        "far"
+      ],
+      "total_rows": 2,
+      "valid_rows": 0,
+      "excluded_rows": 2,
+      "sufficient_samples": false,
+      "zones": {
+        "front": {
+          "samples": 0,
+          "percent_of_valid": 0.0
+        },
+        "middle": {
+          "samples": 0,
+          "percent_of_valid": 0.0
+        },
+        "rear": {
+          "samples": 0,
+          "percent_of_valid": 0.0
+        }
+      }
+    },
+    {
+      "segment_id": 2,
+      "track_id": 1,
+      "court_side_labels": [
+        "near"
+      ],
+      "total_rows": 51,
+      "valid_rows": 51,
+      "excluded_rows": 0,
+      "sufficient_samples": true,
+      "zones": {
+        "front": {
+          "samples": 0,
+          "percent_of_valid": 0.0
+        },
+        "middle": {
+          "samples": 51,
+          "percent_of_valid": 100.0
+        },
+        "rear": {
+          "samples": 0,
+          "percent_of_valid": 0.0
+        }
+      }
+    },
+    {
+      "segment_id": 2,
+      "track_id": 2,
+      "court_side_labels": [
+        "far"
+      ],
+      "total_rows": 51,
+      "valid_rows": 41,
+      "excluded_rows": 10,
+      "sufficient_samples": true,
+      "zones": {
+        "front": {
+          "samples": 13,
+          "percent_of_valid": 31.71
+        },
+        "middle": {
+          "samples": 28,
+          "percent_of_valid": 68.29
+        },
+        "rear": {
+          "samples": 0,
+          "percent_of_valid": 0.0
+        }
+      }
+    }
+  ]
+}

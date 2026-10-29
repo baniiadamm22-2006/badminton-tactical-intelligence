@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "video": "data\\raw\\match_001.mp4",
+  "fps": 30.0,
+  "frame_count": 1919,
+  "rallies": [
+    {
+      "rally_id": 1,
+      "start_frame": 0,
+      "end_frame": 217,
+      "winner": "far",
+      "annotation_status": "verified",
+      "notes": ""
+    },
+    {
+      "rally_id": 2,
+      "start_frame": 255,
+      "end_frame": 464,
+      "winner": "far",
+      "annotation_status": "verified",
+      "notes": ""
+    },
+    {
+      "rally_id": 3,
+      "start_frame": 524,
+      "end_frame": 590,
+      "winner": "near",
+      "annotation_status": "verified",
+      "notes": ""
+    },
+    {
+      "rally_id": 4,
+      "start_frame": 679,
+      "end_frame": 1178,
+      "winner": "far",
+      "annotation_status": "verified",
+      "notes": ""
+    },
+    {
+      "rally_id": 5,
+      "start_frame": 1220,
+      "end_frame": 1557,
+      "winner": "near",
+      "annotation_status": "verified",
+      "notes": ""
+    },
+    {
+      "rally_id": 6,
+      "start_frame": 1639,
+      "end_frame": 1798,
+      "winner": "near",
+      "annotation_status": "verified",
+      "notes": ""
+    }
+  ]
+}

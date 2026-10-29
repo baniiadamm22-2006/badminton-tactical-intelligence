@@ -1,0 +1,7 @@
+proposal_id,segment_id,start_frame,end_frame,start_seconds,end_seconds,two_player_coverage,score,status,winner,reason
+1,1,0,248,0.0,8.267,1.0,1.0,needs_review,unknown,Kontinuitas deteksi kedua sisi lapangan; tidak membuktikan shuttle aktif
+2,2,249,503,8.3,16.767,1.0,1.0,needs_review,unknown,Kontinuitas deteksi kedua sisi lapangan; tidak membuktikan shuttle aktif
+3,3,523,668,17.433,22.267,0.9932,0.9932,needs_review,unknown,Kontinuitas deteksi kedua sisi lapangan; tidak membuktikan shuttle aktif
+4,4,672,1207,22.4,40.233,0.9757,0.9757,needs_review,unknown,Kontinuitas deteksi kedua sisi lapangan; tidak membuktikan shuttle aktif
+5,5,1213,1625,40.433,54.167,0.9952,0.9952,needs_review,unknown,Kontinuitas deteksi kedua sisi lapangan; tidak membuktikan shuttle aktif
+6,6,1635,1855,54.5,61.833,0.9593,0.9593,needs_review,unknown,Kontinuitas deteksi kedua sisi lapangan; tidak membuktikan shuttle aktif

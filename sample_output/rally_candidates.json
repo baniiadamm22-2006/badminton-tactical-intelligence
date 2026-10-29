@@ -1,0 +1,85 @@
+{
+  "source_video": "data\\raw\\match_001.mp4",
+  "method": "two-sided track continuity heuristic",
+  "warning": "Kandidat wajib ditinjau. Scene cut dan dua pemain terlihat bukan bukti rally berlangsung.",
+  "candidates": [
+    {
+      "proposal_id": 1,
+      "segment_id": 1,
+      "start_frame": 0,
+      "end_frame": 248,
+      "start_seconds": 0.0,
+      "end_seconds": 8.267,
+      "two_player_coverage": 1.0,
+      "score": 1.0,
+      "status": "needs_review",
+      "winner": "unknown",
+      "reason": "Kontinuitas deteksi kedua sisi lapangan; tidak membuktikan shuttle aktif"
+    },
+    {
+      "proposal_id": 2,
+      "segment_id": 2,
+      "start_frame": 249,
+      "end_frame": 503,
+      "start_seconds": 8.3,
+      "end_seconds": 16.767,
+      "two_player_coverage": 1.0,
+      "score": 1.0,
+      "status": "needs_review",
+      "winner": "unknown",
+      "reason": "Kontinuitas deteksi kedua sisi lapangan; tidak membuktikan shuttle aktif"
+    },
+    {
+      "proposal_id": 3,
+      "segment_id": 3,
+      "start_frame": 523,
+      "end_frame": 668,
+      "start_seconds": 17.433,
+      "end_seconds": 22.267,
+      "two_player_coverage": 0.9932,
+      "score": 0.9932,
+      "status": "needs_review",
+      "winner": "unknown",
+      "reason": "Kontinuitas deteksi kedua sisi lapangan; tidak membuktikan shuttle aktif"
+    },
+    {
+      "proposal_id": 4,
+      "segment_id": 4,
+      "start_frame": 672,
+      "end_frame": 1207,
+      "start_seconds": 22.4,
+      "end_seconds": 40.233,
+      "two_player_coverage": 0.9757,
+      "score": 0.9757,
+      "status": "needs_review",
+      "winner": "unknown",
+      "reason": "Kontinuitas deteksi kedua sisi lapangan; tidak membuktikan shuttle aktif"
+    },
+    {
+      "proposal_id": 5,
+      "segment_id": 5,
+      "start_frame": 1213,
+      "end_frame": 1625,
+      "start_seconds": 40.433,
+      "end_seconds": 54.167,
+      "two_player_coverage": 0.9952,
+      "score": 0.9952,
+      "status": "needs_review",
+      "winner": "unknown",
+      "reason": "Kontinuitas deteksi kedua sisi lapangan; tidak membuktikan shuttle aktif"
+    },
+    {
+      "proposal_id": 6,
+      "segment_id": 6,
+      "start_frame": 1635,
+      "end_frame": 1855,
+      "start_seconds": 54.5,
+      "end_seconds": 61.833,
+      "two_player_coverage": 0.9593,
+      "score": 0.9593,
+      "status": "needs_review",
+      "winner": "unknown",
+      "reason": "Kontinuitas deteksi kedua sisi lapangan; tidak membuktikan shuttle aktif"
+    }
+  ]
+}

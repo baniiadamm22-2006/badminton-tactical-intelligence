@@ -1,0 +1,57 @@
+{
+  "input_rows": 605,
+  "eligible_points": 553,
+  "speed_jump_review_points": 44,
+  "short_track_review_points": 8,
+  "max_speed_mps_screening": 12.0,
+  "median_window": 5,
+  "important": "Screening threshold is heuristic, not a physiological limit. Cleaned positions do not establish athlete identity, ground-truth accuracy or reliable distance totals.",
+  "tracks": [
+    {
+      "segment_id": 1,
+      "track_id": 1,
+      "rows": 249,
+      "status": "review_required",
+      "large_steps": 19,
+      "flagged_points": 32
+    },
+    {
+      "segment_id": 1,
+      "track_id": 2,
+      "rows": 6,
+      "status": "short_track_review",
+      "large_steps": 0
+    },
+    {
+      "segment_id": 1,
+      "track_id": 5,
+      "rows": 246,
+      "status": "review_required",
+      "large_steps": 1,
+      "flagged_points": 2
+    },
+    {
+      "segment_id": 1,
+      "track_id": 8,
+      "rows": 2,
+      "status": "short_track_review",
+      "large_steps": 0
+    },
+    {
+      "segment_id": 2,
+      "track_id": 1,
+      "rows": 51,
+      "status": "candidate",
+      "large_steps": 0,
+      "flagged_points": 0
+    },
+    {
+      "segment_id": 2,
+      "track_id": 2,
+      "rows": 51,
+      "status": "review_required",
+      "large_steps": 5,
+      "flagged_points": 10
+    }
+  ]
+}

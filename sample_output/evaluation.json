@@ -1,0 +1,35 @@
+{
+  "verified_reference_rallies": 6,
+  "proposal_count": 6,
+  "matched_at_iou_0_5": 5,
+  "precision_at_iou_0_5": 0.8333,
+  "recall_at_iou_0_5": 0.8333,
+  "matches": [
+    {
+      "proposal_id": 4,
+      "rally_id": 4,
+      "iou": 0.9328
+    },
+    {
+      "proposal_id": 1,
+      "rally_id": 1,
+      "iou": 0.8755
+    },
+    {
+      "proposal_id": 2,
+      "rally_id": 2,
+      "iou": 0.8235
+    },
+    {
+      "proposal_id": 5,
+      "rally_id": 5,
+      "iou": 0.8184
+    },
+    {
+      "proposal_id": 6,
+      "rally_id": 6,
+      "iou": 0.724
+    }
+  ],
+  "note": "Evaluasi in-sample pada satu video; bukan validasi generalisasi model."
+}
